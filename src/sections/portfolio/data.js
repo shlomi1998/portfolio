@@ -27,15 +27,15 @@ const data = [
         demo: 'http://egatortutorials.com',
         github: 'https://github.com/egattor'
     },
-    // {
-    //     id: 3,
-    //     category: 'frontend',
-    //     image: Image3,
-    //     title: "Project Title Three (Frontend)",
-    //     desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
-    //     demo: 'http://egatortutorials.com',
-    //     github: 'https://github.com/egattor'
-    // },
+    {
+        id: 3,
+        category: 'backend',
+        image: Image3,
+        title: "Project Title Three (backend)",
+        desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
+        demo: 'http://egatortutorials.com',
+        github: 'https://github.com/egattor'
+    },
     
     
     // {

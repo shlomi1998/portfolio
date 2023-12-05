@@ -25,7 +25,7 @@ const data = [
         title: "Nike (Frontend)",
         desc: "אתר nike רספונסיבי שילוב של React+TypeScript+Tailwind+Vite",
         demo: 'http://egatortutorials.com',
-        github: 'https://github.com/egattor'
+        github: 'https://github.com/shlomi1998/Nike-Website-React.-TypeScript-Tailwind'
     },
     {
         id: 3,

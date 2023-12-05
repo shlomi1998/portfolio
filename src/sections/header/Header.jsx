@@ -18,7 +18,7 @@ const Header = () => {
         </div>
         <h3  data-aos="fade-up">שלמה אזנקוט</h3>
         <p  data-aos="fade-up">
-        מתחמחה בפיתוח full stack במגון שפות תכנות עם נסיון רב בפרויקטים מקצה לקצה
+        מתמחה בפיתוח full stack במגוון שפות תכנות עם ניסיון רב בפרויקטים מקצה לקצה
         </p>
         <div className="header__cta"  data-aos="fade-up">
           <a href="#contact" className='btn primary'>צרו קשר</a>

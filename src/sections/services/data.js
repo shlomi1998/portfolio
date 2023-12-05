@@ -6,7 +6,7 @@ import {AiFillAppstore} from 'react-icons/ai'
 
 const data = [
     {
-        id: 1, icon: <SiAdobexd/>, title: 'UI/UX Design', desc: "מעצב עם נסיון ביצירת חוויות משתמש אינטואיטיביות ומהנות באמצעות מחקר מקיף ומידול אבות טיפוס המותאמים לפלטפורמות רבות"
+        id: 1, icon: <SiAdobexd/>, title: 'UI/UX Design', desc: "מעצב עם ניסיון ביצירת חוויות משתמש אינטואיטיביות ומהנות באמצעות מחקר מקיף ומידול אבות טיפוס המותאמים לפלטפורמות רבות"
     },
     {
         id: 2, icon: <RiReactjsLine/>, title: 'Frontend Development', desc: "מנוסה בבניית ממשקי משתמש אינטואוטיביים,רספונסביים ונגישים המותאמים למגוון מכשירים ופלטמורמות"

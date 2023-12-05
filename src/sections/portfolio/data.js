@@ -24,7 +24,7 @@ const data = [
         image: Image2,
         title: "Nike (Frontend)",
         desc: "אתר nike רספונסיבי שילוב של React+TypeScript+Tailwind+Vite",
-        demo: 'http://egatortutorials.com',
+        demo: 'https://github.com/shlomi1998/Nike-Website-React.-TypeScript-Tailwind',
         github: 'https://github.com/shlomi1998/Nike-Website-React.-TypeScript-Tailwind'
     },
     {

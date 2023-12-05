@@ -30,7 +30,7 @@ const data = [
     {
         id: 3,
         category: 'full stack',
-        image: Image4,
+        image: Image1,
         title: "Workie(Full Stack)",
         desc: `workie זה פלטפורמת אינטרנט ומובייל המתמקדת בהזדמנויות עבודה מיידיות הפלטפורמה  כתובה בשלל שפות וספריות  Scss(Bem)+Mui+Tailwind+React(Redux.js+Context)+TypeScript+Socket.io+Node.js(express)+MongoDB`,
         demo: 'https://www.youtube.com/watch?v=_7FP9JmaKmE&t=21s',

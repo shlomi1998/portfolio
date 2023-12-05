@@ -29,24 +29,25 @@ const data = [
     },
     {
         id: 3,
-        category: 'backend',
+        category: 'full stack',
+        image: Image4,
+        title: "Workie(Full Stack)",
+        desc: `workie זה פלטפורמת אינטרנט ומובייל המתמקדת בהזדמנויות עבודה מיידיות הפלטפורמה  כתובה בשלל שפות וספריות  Scss(Bem)+Mui+Tailwind+React(Redux.js+Context)+TypeScript+Socket.io+Node.js(express)+MongoDB`,
+        demo: 'https://www.youtube.com/watch?v=_7FP9JmaKmE&t=21s',
+        github: 'https://github.com/shlomi1998/workie-fe-be'
+    },
+    {
+        id: 4,
+        category: 'full stack',
         image: Image3,
-        title: "Project Title Three (backend)",
-        desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
-        demo: 'http://egatortutorials.com',
-        github: 'https://github.com/egattor'
+        title: "Blog App (Full Stack)",
+        desc: "אתר blog נחמד שבנוי ב React+Nod.js+MySql (יש כניסה למשתמש ורישום בנוסף ניתן להעלות תמונה וכן יש שימוש ב-Rich Text Editor)",
+        demo: 'https://www.youtube.com/watch?v=5lTh9tgRrO8',
+        github: 'https://github.com/shlomi1998/Blog-App-React-Node.js-MySQL'
     },
     
     
-    // {
-    //     id: 4,
-    //     category: 'uiux',
-    //     image: Image4,
-    //     title: "Project Title Four (UIUX)",
-    //     desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
-    //     demo: 'http://egatortutorials.com',
-    //     github: 'https://github.com/egattor'
-    // },
+   
     // {
     //     id: 5,
     //     category: 'uiux',

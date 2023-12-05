@@ -32,7 +32,7 @@ const data = [
     category: "backend",
     image: Image4,
     title: "Workie(Full Stack)",
-    desc: "workie זה פלטפורמת אינטרנט ומובייל המתמקדת בהזדמנויות עבודה מיידיות הפלטפורמה  כתובה בשלל שפות וספריות",
+    desc: "workie זה פלטפורמת אינטרנט ומובייל המתמקדת בהזדמנויות עבודה מיידיות הפלטפורמה  כתובה בשלל שפות וספריות כגון   Scss(Bem)+Mui+Tailwind+React(Redux.js+Context)+TypeScript+Socket io+Node.js(express)+MongoDB",
     demo: "https://www.youtube.com/watch?v=_7FP9JmaKmE&t=21s",
     github: "https://github.com/shlomi1998/workie-fe-be",
   },

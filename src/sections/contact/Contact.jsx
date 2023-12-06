@@ -6,7 +6,7 @@ const Contact = () => {
     <section id="contact">
       <h2>נהיה בקשר</h2>
       <p>
-        ניתן לשלח לי הודעה באחד הקישורים הבאים
+        ניתן לשלוח לי הודעה באחד מהקישורים הבאים
       </p>
       <div className="container contact__container" data-aos="fade-up">
         {

@@ -9,7 +9,7 @@ const data = [
         id: 1, icon: <SiAdobexd/>, title: 'UI/UX Design', desc: "מעצב עם ניסיון ביצירת חוויות משתמש אינטואיטיביות ומהנות באמצעות מחקר מקיף ומידול אבות טיפוס המותאמים לפלטפורמות רבות"
     },
     {
-        id: 2, icon: <RiReactjsLine/>, title: 'Frontend Development', desc: "מנוסה בבניית ממשקי משתמש אינטואוטיביים,רספונסביים ונגישים המותאמים למגוון מbackendירים ופלטמורמות"
+        id: 2, icon: <RiReactjsLine/>, title: 'Frontend Development', desc: "מנוסה בבניית ממשקי משתמש אינטואוטיביים,רספונסביים ונגישים המותאמים למגוון מכשירים ופלטמורמות"
     },
     {
         id: 3, icon: <FaServer/>, title: 'Backend Development', desc: "ידע נרחב בבניית שרתים ומסדי נתונים יעילים וסקלביליים,בטכנולגיות עדכניות ומגוונות"

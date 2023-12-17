@@ -10,17 +10,19 @@ import Avatar7 from '../../assets/avatar7.jpg'
 const data = [
         {
         id: 1,
-        quote: "בבנייה 😎😁",
+        quote: "שלום רב אני שמח להמליץ על הסטאז'ר המצוין הזה. הוא מפתח מקצועי ויסודי, עם קוד נקי ומאובטח. יודע לפתור בעיות מורכבות בזריזות, וחברותי מאוד. אדם שאפשר לסמוך עליו, ממליץ בחום.",
         avatar: Avatar1,
-        name:"שם מלא",
-        profession: 'תפקיד'
+        name:"Hayim Makabee",
+        profession: 'CTO at Dooiu',
+        link:"https://www.linkedin.com/in/hayimmakabee/ "
         },
         {
         id: 2,
-        quote: "בבנייה 😎😁",
+        quote: "תלמיד מבריק ויצירתי שהפגין יכולות מחקר ופיתוח מרשימות בפרויקט האישי שביצע עבורי. מתוך כל הסטודנטים, זיהיתי בו חשיבה מקורית ויצירתית שהובילה לפתרונות חדשניים. ממליץ בחום לצרף אותו לצוות המחקר והפיתוח.",
         avatar: Avatar2,
-        name:"שם מלא",
-        profession: 'תפקיד'
+        name:"פרופ' מנחם דומב",
+        profession: "ראש החוג למדעי המחשב ",
+        link:"https://www.linkedin.com/in/mdomb?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app "
         },
         {
         id: 3,
@@ -43,20 +45,20 @@ const data = [
         name:"שם מלא",
         profession: 'תפקיד'
         },
-        {
-        id: 6,
-        quote: "בבנייה 😎😁",
-        avatar: Avatar6,
-        name:"שם מלא",
-        profession: 'תפקיד'
-        },
-        {
-        id: 7,
-        quote: "בבנייה 😎😁",
-        avatar: Avatar5,
-        name:"שם מלא",
-        profession: 'תפקיד'
-        },
+        // {
+        // id: 6,
+        // quote: "בבנייה 😎😁",
+        // avatar: Avatar6,
+        // name:"שם מלא",
+        // profession: 'תפקיד'
+        // },
+        // {
+        // id: 7,
+        // quote: "בבנייה 😎😁",
+        // avatar: Avatar7,
+        // name:"שם מלא",
+        // profession: 'תפקיד'
+        // },
         
     ]
 

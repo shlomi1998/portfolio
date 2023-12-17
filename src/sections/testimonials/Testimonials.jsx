@@ -20,7 +20,7 @@ const Testimonials = () => {
     <section id="testimonials">
       <h2>חוות דעת</h2>
       <p>
-        אלו אנשים שעבדתי איתם או תרמתי להם ,לחץ לפרופיל הלינקדאין שלהם
+        אלו אנשים שעבדתי איתם או תרמתי להם, לחץ לפרופיל הלינקדאין שלהם
       </p>
       <div className="container">
       <Swiper

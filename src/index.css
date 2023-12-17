@@ -298,3 +298,21 @@ img {
         width: var(--container-width-md);
     }
 }
+.testimonial__link {
+    text-decoration: none;
+    color: inherit;
+  }
+  
+  .testimonial__link:hover {
+    text-decoration: none;
+  }
+  
+  /* או אם רוצים להפעיל על כל הכרטיס */
+  .card a {
+    text-decoration: none;
+    color: inherit;
+  }
+  
+  .card a:hover {
+    text-decoration: none;
+  }

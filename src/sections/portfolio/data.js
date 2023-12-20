@@ -30,6 +30,15 @@ const data = [
   {
     id: 3,
     category: "Full Stack",
+    image: Image5,
+    title: "AI Chat Bot (Full Stack)",
+    desc: "אתר Chat Bot חתיך ברמות עם שימוש ב-OpenAi של GPT-4 עם מירב הטכנולוגיות קוד סופר נקי וסופר מאובטח 💫(ממליץ להציץ בגיטהאב) שימוש ב-MERN+TypeScript+MUI ועוד... ניתן להשתמש בו אחרי רישום, מומלץ לשאול שאלות קוד כי זה פשוט נראה טוב  (לא יותר משני שאלות אין לי הרבה אסימונים חחח 😬😅)",
+    demo: "https://chat-bot-v1-4eip.onrender.com",
+    github: "https://github.com/shlomi1998/AI-ChatBot",
+  },
+  {
+    id: 4,
+    category: "Full Stack",
     image: Image4,
     title: "Workie (Full Stack)",
     desc: "workie זה פלטפורמת אינטרנט ומובייל המתמקדת בהזדמנויות עבודה מיידיות הפלטפורמה  כתובה בשלל שפות וספריות כגון Mern-->TypeScript-->Redux-->Socket io ועוד",
@@ -37,7 +46,7 @@ const data = [
     github: "https://github.com/shlomi1998/workie-fe-be",
   },
   {
-    id: 4,
+    id: 5,
     category: "Full Stack",
     image: Image3,
     title: "Blog App (Full Stack)",

@@ -31,7 +31,7 @@ const data = [
     category: "Full Stack",
     image: Image5,
     title: "AI Chat Bot (Full Stack)",
-    desc: "אתר Chat Bot חתיך ברמות עם שימוש ב-OpenAi של GPT-4 עם מירב הטכנולוגיות קוד סופר נקי וסופר מאובטח 💫(ממליץ להציץ בגיטהאב) שימוש ב-MERN+TypeScript+MUI ועוד... ניתן להשתמש בו אחרי רישום, מומלץ לשאול שאלות קוד כי זה פשוט נראה טוב  (לא יותר משני שאלות אין לי הרבה אסימונים חחח 😬😅)",
+    desc: "אתר Chat Bot חתיך ברמות עם שימוש ב-OpenAi של GPT-4 עם מירב הטכנולוגיות קוד סופר נקי וסופר מאובטח 💫 (ממליץ להציץ בגיטהאב) שימוש ב-MERN+TypeScript+MUI ועוד... ניתן להשתמש בו אחרי רישום, מומלץ לשאול שאלות קוד כי זה פשוט נראה טוב  (לא יותר משתי שאלות אין לי הרבה אסימונים חחח 😬😅)",
     demo: "https://chat-bot-v1-4eip.onrender.com",
     github: "https://github.com/shlomi1998/AI-ChatBot",
   },

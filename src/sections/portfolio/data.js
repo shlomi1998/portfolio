@@ -18,7 +18,7 @@ const data = [
     github: "https://github.com/egattor",
   },
   {
-    id: 2,
+    id: 6,
     category: "frontend",
     image: Image2,
     title: "Nike (Frontend)",
@@ -56,7 +56,7 @@ const data = [
   },
 
   {
-      id: 6,
+      id: 2,
       category: 'frontend',
       image: Image6,
       title: "YumEats (Frontend)",

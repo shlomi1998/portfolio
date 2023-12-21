@@ -56,6 +56,15 @@ const data = [
   {
     id: 6,
     category: "frontend",
+    image: Image7,
+    title: "Weather App (Frontend)",
+    desc: `שואלים מה "המצב רוח" שלי ??? למה שלא תשאלו את האפלקציה 😌💡 ? מדובר באפליקציית מזג אוויר שמציגה נתונים חיים ותחזית לשבוע הקרוב. היא מראה את הטמפרטורה הנוכחית, מהירות הרוח, רמת הלחות ואינדקס החום. יש גם תחזית יומית עם סמלים ויזואליים שמתארים את מזג האוויר - שמש, גשם, עננים - ואת הטמפרטורות המשוערות לכל יום. הממשק מעוצב עם תמונות רקע מתחלפות בהתאם לתחזית`,
+    demo: "https://weather-application-2023.onrender.com",
+    github:"https://github.com/shlomi1998/Weather-Application",
+  },
+  {
+    id: 7,
+    category: "frontend",
     image: Image2,
     title: "Nike (Frontend)",
     desc: "אתר nike רספונסיבי שילוב של React+TypeScript+Tailwind+Vite",

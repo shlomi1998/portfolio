@@ -55,24 +55,15 @@ const data = [
     github: "https://github.com/shlomi1998/Blog-App-React-Node.js-MySQL",
   },
 
-  // {
-  //     id: 5,
-  //     category: 'uiux',
-  //     image: Image5,
-  //     title: "Project Title Five (UIUX)",
-  //     desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut! ",
-  //     demo: 'http://egatortutorials.com',
-  //     github: 'https://github.com/egattor'
-  // },
-  // {
-  //     id: 6,
-  //     category: 'frontend',
-  //     image: Image6,
-  //     title: "Project Title Six (Frontend)",
-  //     desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
-  //     demo: 'http://egatortutorials.com',
-  //     github: 'https://github.com/egattor'
-  // },
+  {
+      id: 6,
+      category: 'frontend',
+      image: Image6,
+      title: "YumEats (Frontend)",
+      desc: " אתר רספונסיבי ויפה מאוד מבחינה חזותית, על מנת להדגים את היכולות שלי בתחום ה-Frontend תוך שימוש בטכנולוגיות React  ו-Tailwind CSS הממשק המעוצב היטב והאינטראקציות החלקות מציגים היטב את הכישורים שלי ביצירת חוויית משתמש מעולה (אציין הייתי רעב מאוד באותו זמן😅😂)      ",
+      demo: 'https://yumeast-sa.onrender.com/',
+      github: 'https://github.com/shlomi1998/yumEast-frontend'
+  },
   // {
   //     id: 7,
   //     category: 'frontend',

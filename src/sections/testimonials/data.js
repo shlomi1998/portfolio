@@ -38,13 +38,13 @@ const data = [
         name:"שם מלא",
         profession: 'תפקיד'
         },
-        {
-        id: 5,
-        quote: "בבנייה 😎😁",
-        avatar: Avatar5,
-        name:"שם מלא",
-        profession: 'תפקיד'
-        },
+        // {
+        // id: 5,
+        // quote: "בבנייה 😎😁",
+        // avatar: Avatar5,
+        // name:"שם מלא",
+        // profession: 'תפקיד'
+        // },
         // {
         // id: 6,
         // quote: "בבנייה 😎😁",

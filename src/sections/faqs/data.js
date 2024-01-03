@@ -7,7 +7,7 @@ const data = [
     {
       id: 2,
       question: "מה השפות והטכנולגיות שאתה יודע?",
-      answer: "Html , Css , Sass , Javascript,Typescript, React,React Native, Node.js, Express,Flask,PHP, MongoDB,SQL,Python ,Soket.io,Git,Figma, ועוד..."
+      answer: "Html ,Css ,Sass ,Javascript ,Typescript ,React ,React Native ,Node.js ,Express ,Flask ,PHP , MongoDB ,SQL ,Python ,#C ,Soket.io ,Git ,Figma , ועוד..."
     },
     {
       id: 3,

@@ -6,7 +6,7 @@ import Image5 from "../../assets/project5.jpg";
 import Image6 from "../../assets/project6.jpg";
 import Image7 from "../../assets/project7.jpg";
 import Image8 from "../../assets/project8.jpg";
-import Image9 from "../../assets/project8.jpg";
+import Image9 from "../../assets/project9.jpg";
 
 const data = [
   {

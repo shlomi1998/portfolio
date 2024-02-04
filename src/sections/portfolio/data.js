@@ -6,6 +6,7 @@ import Image5 from "../../assets/project5.jpg";
 import Image6 from "../../assets/project6.jpg";
 import Image7 from "../../assets/project7.jpg";
 import Image8 from "../../assets/project8.jpg";
+import Image9 from "../../assets/project8.jpg";
 
 const data = [
   {
@@ -18,7 +19,7 @@ const data = [
     github: "https://github.com/egattor",
   },
   {
-    id: 2,
+    id: 8,
     category: "frontend",
     image: Image6,
     title: "YumEats (Frontend)",
@@ -73,25 +74,25 @@ const data = [
       "https://github.com/shlomi1998/Nike-Website-React.-TypeScript-Tailwind",
   },
 
-  // {
-  //     id: 7,
-  //     category: 'frontend',
-  //     image: Image7,
-  //     title: "Project Title Seven (Frontend)",
-  //     desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
-  //     demo: 'http://egatortutorials.com',
-  //     github: 'https://github.com/egattor'
-  // },
+  {
+      id: 9,
+      category: 'frontend',
+      image: Image8,
+      title:"Rummikub (Frontend)",
+      desc: "מטרת המשחק היא להניח את כל אריחי המשחק הממוספרים על הלוח. את האריחים יש להניח ברצפים של מספרים עוקבים באותו הצבע או בקבוצות של מספרים זהים בצבעים שונים. היעזרו בג'וקר למילוי מקום וקחו אריחים מהקופה במידה ונתקעתם הקוד נכתב ב- TypeScriptמטרת המשחק היא להניח את כל אריחי המשחק הממוספרים על הלוח. את האריחים יש להניח ברצפים של מספרים עוקבים באותו הצבע או בקבוצות של מספרים זהים בצבעים שונים. היעזרו בג'וקר למילוי מקום וקחו אריחים מהקופה במידה ונתקעתם הקוד נכתב ב- TypeScript",
+      demo: 'https://github.com/shlomi1998/rummikub',
+      github: 'https://github.com/shlomi1998/rummikub'
+  },
 
-  // {
-  //     id: 9,
-  //     category: 'frontend',
-  //     image: Image9,
-  //     title: "Project Title Nine (Frontend)",
-  //     desc: "Provident similique accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut molestias architecto voluptate aliquam nihil, eveniet aliquid culpa officia aut!",
-  //     demo: 'http://egatortutorials.com',
-  //     github: 'https://github.com/shlomi1998/workie-fe-be/tree/main/workie'
-  // }
+  {
+      id: 2,
+      category: 'frontend',
+      image: Image9,
+      title: "Chess (Frontend)",
+      desc: "קצת לוגיקה  😊 אתר שחמט רספונסיבי שבנוי ב-React js (תזוזת השחקנים עובדת עם גרירה)",
+      demo: 'https://chess-shlomi-a.onrender.com/',
+      github: 'https://github.com/shlomi1998/chess'
+  }
 ];
 
 export default data;
